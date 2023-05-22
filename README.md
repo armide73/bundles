@@ -1,6 +1,6 @@
  Bundle 1-1
 ============
-
+```
 (base) armide@armide-ZHAOYANG-E40-80:~/Desktop/myproject$ git init
 hint: Using 'master' as the name for the initial branch. This default branch name
 hint: is subject to change. To configure the initial branch name to use in all
@@ -100,7 +100,7 @@ Deleted branch test (was a15dd0e).
 (base) armide@armide-ZHAOYANG-E40-80:~/Desktop/myproject$ git branch
 * dev
   main
-(base) armide@armide-ZHAOYANG-E40-80:~/Desktop/myproject$ 
+(base) armide@armide-ZHAOYANG-E40-80:~/Desktop/myproject$ ```
   
             bundle 1-2
             ===========
