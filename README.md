@@ -102,8 +102,8 @@ Deleted branch test (was a15dd0e).
   main
 (base) armide@armide-ZHAOYANG-E40-80:~/Desktop/myproject$ ```
   
-            bundle 1-2
-            ===========
+            <h1>bundle 1-2</h1>
+            
 (base) armide@armide-ZHAOYANG-E40-80:~/Desktop/myproject$ touch home.html
 (base) armide@armide-ZHAOYANG-E40-80:~/Desktop/myproject$ ls
 file1  file2.txt  home.html
